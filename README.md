@@ -24,3 +24,7 @@ The game is divided into several phases, each designed to build on the previous 
 - **Dyslexia-Friendly Font**: The default font used in the game is specifically designed to improve reading comprehension for children with dyslexia.
 - **Voice Narration**: Every instruction and piece of text is read aloud, guiding the user step-by-step and ensuring accessibility for children with different learning needs.
 - **Sound Cues**: Sound effects provide additional feedback, reinforcing actions and helping children know when they’ve completed a task correctly.
+
+## Contribution
+
+This project was a collaborative effort, with each team member focusing on the development of a specific game within the overall structure. I contributed to the design and implementation of one of the games, while my teammates each worked on separate games. This division of labor allowed us to integrate diverse ideas and ensure each game segment was engaging and accessible for children with dyslexia.
